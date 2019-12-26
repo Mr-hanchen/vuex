@@ -1,5 +1,9 @@
 # 
 后端接口和前端视图逻辑
+
+## 技术栈
+技术栈：vue + vuex + vue-router + axios + nodejs + express + mongodb
+
 ## 下载依赖
 ` npm install `
 
